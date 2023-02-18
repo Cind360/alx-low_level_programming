@@ -28,4 +28,3 @@ vi
 	putchar('\n');
 	return (0);
 }
-
